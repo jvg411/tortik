@@ -217,6 +217,7 @@
 
 .btn-order:hover {
     background-color: #55257e;
+    cursor: pointer;
 }
 
 /* ===== WHY US SECTION (card__wrapper) ===== */
@@ -992,4 +993,5 @@
         height: auto;
         padding: 32px 24px;
     }
+
 }
