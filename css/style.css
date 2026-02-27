@@ -25,7 +25,6 @@
     src: url(../fonts/Montserrat-Regular.ttf);
 }
 
-/* ===== CONTAINERS ===== */
 .container,
 .container2,
 .container3 {
@@ -103,7 +102,6 @@
     background: #55257e;
 }
 
-/* ===== HERO SECTION ===== */
 .main_hero {
     display: flex;
     margin-top: 63px;
@@ -146,7 +144,6 @@
     margin-bottom: 64px;
 }
 
-/* ===== OCCASIONS SECTION ===== */
 .occasions__grid {
     display: flex;
     flex-wrap: wrap;
@@ -220,7 +217,6 @@
     cursor: pointer;
 }
 
-/* ===== WHY US SECTION (card__wrapper) ===== */
 .card__wrapper {
     display: flex;
     gap: 32px;
@@ -268,7 +264,6 @@
     font-family: Montserrat-Regular;
 }
 
-/* ===== STATS SECTION ===== */
 .stats__block {
     width: 100%;
     display: flex;
@@ -307,7 +302,6 @@
     line-height: 24px;
 }
 
-/* ===== ORDER BY PHOTO SECTION ===== */
 .order__section {
     margin: 96px 0;
 }
@@ -409,7 +403,6 @@
     cursor: pointer;
 }
 
-/* ===== PROCESS SECTION ===== */
 .process__wrapper {
     margin: 96px 0 64px;
     text-align: center;
@@ -491,7 +484,6 @@
     line-height: 20px;
 }
 
-/* ===== REVIEWS SECTION ===== */
 .reviews {
     padding: 96px 0 64px;
 }
@@ -561,7 +553,6 @@
     object-fit: cover;
 }
 
-/* ===== ORDER FORM SECTION ===== */
 .order {
     padding: 60px 40px;
     background: #f8f9fa;
@@ -642,7 +633,6 @@
     border-radius: 24px;
 }
 
-/* ===== BLOG SECTION ===== */
 .blog {
     padding: 96px 0 64px;
 }
@@ -696,7 +686,6 @@
 }
 
 
-/* ===== LOCATION SECTION ===== */
 .location {
     display: flex;
     justify-content: center;
@@ -748,7 +737,6 @@
     border: 0;
 }
 
-/* ===== CTA SECTION ===== */
 .cta {
     display: flex;
     justify-content: center;
@@ -804,7 +792,6 @@
     background: rgba(255, 255, 255, 0.1);
 }
 
-/* ===== FOOTER ===== */
 .footer {
     margin: 96px 40px 50px;
     display: flex;
@@ -891,7 +878,6 @@
     object-fit: contain;
 }
 
-/* ===== COPYRIGHT ===== */
 .copyright {
     height: 70px;
     background: rgba(106, 46, 157, 0.5);
@@ -909,7 +895,6 @@
     margin: 0;
 }
 
-/* ===== MEDIA QUERIES ===== */
 @media (max-width: 1200px) {
     .container,
     .container2,
@@ -995,3 +980,4 @@
     }
 
 }
+
